@@ -21,8 +21,9 @@ Para instalar el proyecto, será necesario correr en la terminal los comanddos:
 </ul>
 
 
-<h1>Documentación API:</h1>
-https://documenter.getpostman.com/view/16647194/2s9YJXYQDh
+<h1>API:</h1>
+<b>Documentación</b>https://documenter.getpostman.com/view/16647194/2s9YJXYQDh
+<b>API LINK</b> https://us-central1-dumax-eld.cloudfunctions.net/userApp
 
 <h1>Task</h1>
 
