@@ -18,6 +18,7 @@ Para instalar el proyecto, será necesario correr en la terminal los comanddos:
 <ul>
   <li> <b>npm install</b></li>
   <li> <b>npm start</b></li>
+  <li>** Si por alguna razon les es imposible instalar el proyeto, les pedimos realizar el ejercicio  desde un proyecto nuevo creado por ustedes mismos.</li>
 </ul>
 
 
